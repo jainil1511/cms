@@ -1,2 +1,2 @@
 # cms
-Content Managment System
+ Php Simple Content Managment System
