@@ -1,4 +1,4 @@
- # cms
+ # CMS
  ## Php Simple Content Managment System.
  
  Features.
